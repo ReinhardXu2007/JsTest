@@ -1,0 +1,16 @@
+*.idea
+*.iml
+*.ipr
+*.iws
+*.pyc
+.gradle/*
+*.dump
+deploy.log*
+out/*
+*.class
+a.txt
+logs/*
+build/*
+*/node_modules/*
+src/*/node_modules/*
+src/*/build/*
